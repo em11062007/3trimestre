@@ -1,0 +1,15 @@
+[{
+    "nome":"juarez",
+    "email":"juju@gmail.com",
+    "telefone":[
+        "96742386547",
+        "86432781564"
+    ],
+    "endereco":{
+        "logradouro":"rua jacinto pinto",
+        "numero":"24",
+        "cep":"2018",
+        "apartamento":false,
+        "complemento":"bike menor7"
+    }
+}]
